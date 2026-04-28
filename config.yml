@@ -3,5 +3,5 @@ gemini:
   system_prompt: you are helpful assistant
 
 webhook:
-  base_url: https://sctp-ds2f-gemini-wh-demo.onrender.com
+  base_url: https://sctp-ds2f-gemini-rs.onrender.com
   path: /telegram_webhook
